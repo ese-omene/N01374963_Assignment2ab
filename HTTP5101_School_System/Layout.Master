@@ -12,6 +12,14 @@
         <div class="cwidth">
             Your Custom Header Here
         </div>
+        <nav>
+            <ul>
+                <li><a href="ListStudents.aspx">Students</a></li>
+                <li><a href="ListTeachers.aspx">Teachers</a></li>
+                <li><a href="ListClasses.aspx">Classes</a></li>
+                <li><a href="crudPage.aspx">CRUD</a></li>
+            </ul>
+        </nav>
     </header>
     <div class="cwidth">
         <form id="form1" runat="server">
